@@ -1,0 +1,7 @@
+---
+excel_file: "data/Keywords.xlsx"
+output_excel_file: "data/results.xlsx"
+start_index: 35
+num_to_download: 1
+os: "windows"
+headless: True
